@@ -1,0 +1,35 @@
+# ----------------------------------------------------------------------
+# PYTHON SPECIFIC FILES
+# ----------------------------------------------------------------------
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# Distribution/packaging
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment (if you create one)
+.venv/
+venv/
+env/
+
+# Jupyter Notebook Checkpoints (if you use notebooks)
+.ipynb_checkpoints
+
+# ----------------------------------------------------------------------
+# OPERATING SYSTEM/IDE SPECIFIC FILES
+# ----------------------------------------------------------------------
+
+# PyCharm/IntelliJ IDEA files
+.idea/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
